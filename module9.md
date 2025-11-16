@@ -1,6 +1,6 @@
 ## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
-## NAME : BALA SARAVANAN K
-## REG NO: 212224230031
+## NAME : AHAMED JASEER SHA E
+## REG NO: 212224040015
 Aim:
 To write a C program to display stack elements using an array.
 Algorithm:
